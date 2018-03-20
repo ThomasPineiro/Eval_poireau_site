@@ -1,0 +1,116 @@
+#menu
+{
+    background-color: #e1efe0;
+}
+
+#logo_poireau
+{
+    width: 10vw;
+}
+
+.logos_menu
+{
+    width: 6vw;
+    margin-right: 3vw;
+}
+
+#col1_menu
+{
+    text-align: center;
+}
+
+#col2_menu
+{
+    text-align: center;
+}
+
+/* Modal vente */
+
+#nouvelle_venteLabel
+{
+    text-align: start;
+}
+
+.mod1_g
+{
+    padding-right: 8vw;
+    color: grey;
+}
+
+.mod1_input_g
+{
+    padding-right: 4vw;
+    margin-right: 2vw;
+}
+
+.mod1_d
+{
+    margin-right: 20vw;
+    color: grey;
+}
+
+.mod1_input_d
+{
+    padding-right: 13vw;
+    margin-right: 1vw;
+}
+
+.logo_poub
+{
+    width: 2vw;
+}
+
+#rang1_vente
+{
+    margin-bottom: 3vh;
+}
+
+.pied_align
+{
+    justify-content: center;
+}
+
+/* Modal nouvelle entree */
+
+.hauteur_col
+{
+    height: 70vh;
+}
+
+
+
+/* Général */
+.mod1_input1_d
+{
+    padding-right: 10vw;
+}
+
+.mod1_input1_g
+{
+    width: 8vw;
+    margin-right: 4vw;
+}
+
+.decal_top
+{
+    margin-top: 30vh;
+}
+
+.taille_boutons
+{
+    width: 12vw;
+}
+
+.grey
+{
+    color: grey;
+}
+#vert
+{
+    background-color: green;
+}
+
+#jaune
+{
+    background-color: yellow;
+}
